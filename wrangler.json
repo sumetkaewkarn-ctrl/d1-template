@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0d32b6ce-9cc0-436b-99cb-d4454bb3601c",
+			"database_name": "legal-flow-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
